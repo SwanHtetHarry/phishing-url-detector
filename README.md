@@ -5,6 +5,11 @@ An AI-powered phishing URL detection application built with **Python, Scikit-lea
 The application analyzes the structure of a submitted URL using a trained machine-learning model and combines the prediction with VirusTotal reputation information to provide a more informative security assessment.
 
 ---
+## Live Demo
+
+Try the deployed application here:
+
+[Open AI Phishing URL Detector](https://phishing-url-detector-4cpuehf9qsdxeuwtvzypt4.streamlit.app)
 
 ## Features
 
