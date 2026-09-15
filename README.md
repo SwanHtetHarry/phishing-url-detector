@@ -358,11 +358,9 @@ requests==2.33.1
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SwanHtetHarry/phishing-url-detector
 cd phishing-url-detector
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the actual repository URL after the project is uploaded to GitHub.
 
 ### 2. Install Dependencies
 
